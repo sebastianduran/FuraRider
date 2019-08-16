@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><color android:color="@color/splashBackground" /></item><item><bitmap android:src="@drawable/furalogo" android:scaleType="matrix" android:layout_height="fill_parent" android:layout_width="fill_parent" android:tileMode="disabled" /></item></layer-list>

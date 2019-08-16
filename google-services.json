@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773288486124",
+    "firebase_url": "https://fura-8ceb6.firebaseio.com",
+    "project_id": "fura-8ceb6",
+    "storage_bucket": "fura-8ceb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773288486124:android:3eaef81109470e71",
+        "android_client_info": {
+          "package_name": "com.companyname.FuraRider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773288486124-8t454lm6dlcu3k1q1fjc9vtqmor7cj67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.FuraRider",
+            "certificate_hash": "9f3e777db936250a7ce2521adfc355194a8a21cb"
+          }
+        },
+        {
+          "client_id": "773288486124-diluiahu3m8d2kflaai2si9nl8qn8akp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfL4fliMr75o2NY_WYdh5iOuUuZRYBpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773288486124-diluiahu3m8d2kflaai2si9nl8qn8akp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
